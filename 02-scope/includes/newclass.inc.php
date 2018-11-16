@@ -13,7 +13,5 @@
         // }
 
         //PRIVATE
-        // kosongkan karena intialiasi di parentclass
-        
+        // kosongkan karena intialiasi di parentclass   
     }
-
