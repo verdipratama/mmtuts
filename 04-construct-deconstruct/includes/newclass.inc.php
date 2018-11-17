@@ -5,7 +5,7 @@
         public $data;
 
         public function __construct() {
-            echo "This class has been Instantiated";
+            echo "<br> This class has been Instantiated";
         }
 
         // Methods goes here
@@ -18,6 +18,6 @@
         }
 
         public function __destruct() {
-            echo "This is the end of the class!";
+            echo "<br> This is the end of the class!";
         }
     }
